@@ -27,7 +27,7 @@ test_requirements = [
 
 setup(
     name='imailing',
-    version='0.1.0',
+    version='1.0.0',
     description="Interface to send transactionnal email with differents services ",
     long_description=readme + '\n\n' + history,
     author="Noël Rignon",
